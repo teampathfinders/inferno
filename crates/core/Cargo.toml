@@ -37,7 +37,7 @@ tokio-util = "0.7.12"
 rand = "0.8.5"
 dashmap = "6.1.0"
 parking_lot = "0.12.3"
-flate2 = "1.0.32"
+flate2 = "1.0.35"
 serde = { version = "1.0.209", default-features = false }
 serde_json = { version = "1.0.128", features = ["preserve_order"] }
 anyhow = { version = "1.0.86", features = ["backtrace"] }
