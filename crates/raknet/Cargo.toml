@@ -11,7 +11,7 @@ tracing = "0.1.40"
 tokio = { version = "1.40.0", features = ["sync"] }
 tokio-util = "0.7.12"
 async-recursion = "1.1.1"
-anyhow = "1.0.86"
+anyhow = "1.0.95"
 dashmap = "6.1.0"
 parking_lot = "0.12.3"
 lazy_static = "1.5.0"

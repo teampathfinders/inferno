@@ -15,7 +15,7 @@ nbt = { package = "mirai-nbt", path = "../nbt" }
 proto = { package = "mirai-proto", path = "../proto" }
 
 serde = { version = "1.0.209", features = ["derive"] }
-anyhow = { version = "1.0.86", features = ["backtrace"] }
+anyhow = { version = "1.0.95", features = ["backtrace"] }
 bytemuck = "1.18.0"
 tracing = "0.1.40"
 nohash-hasher = "0.2.0"
