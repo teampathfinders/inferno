@@ -8,7 +8,7 @@ license = "Apache-2.0"
 rust-version = "1.75.0"
 
 [dependencies]
-anyhow = { version = "1.0.86", features = ["backtrace"] }
+anyhow = { version = "1.0.95", features = ["backtrace"] }
 base64 = "0.22.1"
 cipher = "0.4.4"
 dashmap = "6.1.0"
